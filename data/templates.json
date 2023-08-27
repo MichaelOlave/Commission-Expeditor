@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Template Name 1",
+        "file": "",
+        "sheet": "Sheet Name",
+        "header": "0",
+        "id_column": "Identifier Column Name",
+        "columnscopy": "Header Name 1, Header Name 2, Header Name 3, Header Name 4 "
+    }
+]
